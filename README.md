@@ -13,11 +13,20 @@ Desarrollador apasionado por la tecnología y la creación de soluciones eficien
 
 ## 📌 Proyectos Destacados
 
+### 🔹 [Sistema de Venta .NET Core](https://github.com/DilarPardo/SistemaVenta_.NetCore)
+🛒 **Sistema de ventas eficiente y fácil de usar** desarrollado en .NET Core. Permite gestionar productos, clientes, facturación y reportes de manera rápida e intuitiva. Ideal para pequeñas y medianas empresas que buscan digitalizar su proceso de ventas.
+
 [![Sistema de Venta .NET Core](https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=SistemaVenta_.NetCore&theme=dark)](https://github.com/DilarPardo/SistemaVenta_.NetCore)
 
-[![Otro Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=Otro-Proyecto&theme=dark)](https://github.com/DilarPardo/Otro-Proyecto)
+### 🔹 [CRUD tipo API Laravel - Sistema de Institución](https://github.com/DilarPardo/Api_Laravel)
+📌 **API RESTful en Laravel** diseñada para la gestión de instituciones. Incluye endpoints para manejar usuarios, estudiantes, cursos y más, permitiendo una integración sencilla con cualquier frontend.
 
-[![Y Otro Más](https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=Y-Otro-Mas&theme=dark)](https://github.com/DilarPardo/Y-Otro-Mas)
+[![CRUD tipo API Laravel](https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=Api_Laravel&theme=dark)](https://github.com/DilarPardo/Api_Laravel)
+
+### 🔹 [Sistema de Inventario Básico](https://github.com/DilarPardo/SistemaInventario)
+📦 **Aplicación sencilla de gestión de inventarios** para pequeñas empresas. Permite registrar productos, controlar existencias y realizar movimientos de stock de manera eficiente.
+
+[![Sistema de Inventario Básico](https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=SistemaInventario&theme=dark)](https://github.com/DilarPardo/SistemaInventario)
 
 ---
 ⭐ **No olvides seguirme para más proyectos interesantes!**

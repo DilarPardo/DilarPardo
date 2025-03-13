@@ -13,7 +13,7 @@ Desarrollador apasionado por la tecnología y la creación de soluciones eficien
 
 ## 📌 Proyectos Destacados
 
-[![Sistema de ventas][(https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=Sistema-Gestion-Inventario&theme=dark)](https://github.com/DilarPardo/Sistema-Gestion-Inventario)](https://github.com/DilarPardo/SistemaVenta_.NetCore)
+[![Sistema de Venta .NET Core](https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=SistemaVenta_.NetCore&theme=dark)](https://github.com/DilarPardo/SistemaVenta_.NetCore)
 
 [![Otro Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=DilarPardo&repo=Otro-Proyecto&theme=dark)](https://github.com/DilarPardo/Otro-Proyecto)
 
